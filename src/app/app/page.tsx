@@ -1,5 +1,6 @@
 import { redirect } from "next/navigation";
 
 export default function CustomerIndexPage() {
-  redirect("/app/home");
+  redirect("/app/home")
+```;
 }
