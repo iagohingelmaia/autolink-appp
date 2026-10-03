@@ -1,4 +1,4 @@
-import { redirect } from "next/navigation";
+import { redirect } from "src/app/page.tsx";
 
 export default function CustomerIndexPage() {
   redirect("/app/home")
